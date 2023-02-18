@@ -1,7 +1,85 @@
 .css-1upqg3e{
-    background-color: #161B22 inherit;
+    background-color: #161B22;
+    background-image: none;
 }
 
 .css-1emskik{
-    background-color: #0D1117 inherit;
+    background-color: #0D1117;
+}
+
+.markdown-body{
+    background-color: #0D1117;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: #30363D;
+    color: #C9D1D9;
+}
+
+.markdown-body img{
+    background-color: #0D1117;
+}
+
+.markdown-body a{
+    color: #58A6FF;
+}
+
+.css-1soc6vy.Mui-selected {
+    color: #C9D1D9;
+    font-weight: bold;
+}
+
+.css-6oyo0g{
+    background-color: #F78166;
+}
+
+.markdown-body .highlight pre, .markdown-body pre{
+    background-color: #161B22;
+    border-radius: 5px;
+    color: #6DE76D;
+}
+
+html{
+    background-color: #0d1117;
+}
+
+.css-lrnf36 {
+    background: #161B22;
+    border-top: 1px solid #21262D;
+}
+
+.css-j4jqw3{
+    background-color: #0D1117;
+    background-image: none;
+}
+
+.detail-info div {
+    padding-top: 15px;
+}
+
+h6.MuiTypography-root {
+    padding-bottom: 25px;
+}
+
+.detail-info.MuiBox-root.css-1oonbm0.detail-info div:not(:first-child) {
+    color: #8B949E;
+    padding-bottom: 15px;
+}
+
+h6.MuiTypography-root.MuiTypography-subtitle1.exr63xd0.css-1fzs7cb {
+    display: none;
+}
+
+.MuiButtonBase-root.MuiListItem-root.MuiListItem-gutters.MuiListItem-padding.MuiListItem-button.e1sfautt2.css-czlglu {
+    display: none;
+}
+
+.css-s0yl5h{
+    border-radius: 5px;
+    width: 5rem;
+    background-color: #21262D;
+    border: 1px solid #363B42;
+}
+
+.MuiBox-root.css-hyl8au {
+    justify-content: space-between;
 }
