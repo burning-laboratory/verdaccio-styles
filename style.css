@@ -8,11 +8,11 @@
 }
 
 .markdown-body{
-    background-color: #0D1117;
+    background-color: #0D1117 !important;
     border-radius: 5px;
     border: 1px solid;
     border-color: #30363D;
-    color: #C9D1D9;
+    color: #C9D1D9 !important;
 }
 
 .markdown-body img{
@@ -20,7 +20,7 @@
 }
 
 .markdown-body a{
-    color: #58A6FF;
+    color: #58A6FF !important;
 }
 
 .css-1soc6vy.Mui-selected {
